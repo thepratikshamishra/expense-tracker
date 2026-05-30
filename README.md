@@ -32,6 +32,10 @@ This project demonstrates **Python basics** like SQLite, loops, user input handl
 git clone https://github.com/thepratikshamishra/expense-tracker.git
 cd expense-tracker
 python expense_tracker.py
+
 ---
 
 ## 📂 Project Structure
+expense-tracker/
+│── expense_tracker.py   # Main application code
+│── README.md            # Project documentation
