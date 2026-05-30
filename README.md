@@ -39,3 +39,12 @@ python expense_tracker.py
 expense-tracker/
 │── expense_tracker.py   # Main application code
 │── README.md            # Project documentation
+
+---
+
+## 📜 Author
+
+**Pratiksha Mishra**
+
+🌐 GitHub: [thepratikshamishra](https://github.com/thepratikshamishra)  
+💼 LinkedIn: [Pratiksha Mishra](www.linkedin.com/in/the-pratiksha-mishra)
