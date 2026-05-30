@@ -37,10 +37,13 @@ git clone https://github.com/thepratikshamishra/expense-tracker.git
 cd expense-tracker
 
 2️⃣ **Install dependencies**
+
   pip install flask
 
 3️⃣ **Run the app** 
+
   python app.py
+  
 4️⃣ Open browser and go to `http://127.0.0.1:5000`
 
 ---
@@ -49,9 +52,13 @@ cd expense-tracker
 
 expense-tracker/
 │── app.py                  # Flask web application
+
 │── expense_tracker.py      # Original CLI version
+
 │── templates/
+
 │   └── index.html          # Frontend UI
+
 │── README.md               # Project documentation
 
 ---
@@ -61,4 +68,5 @@ expense-tracker/
 **Pratiksha Mishra**
 
 🌐 GitHub: [thepratikshamishra](https://github.com/thepratikshamishra)  
+
 💼 LinkedIn: [Pratiksha Mishra](www.linkedin.com/in/the-pratiksha-mishra)
