@@ -1,10 +1,10 @@
 # 💸 Expense Tracker
 
-Beginner-friendly Python project for tracking daily expenses using SQLite
+Beginner-friendly Python web app for tracking daily expenses using Flask and SQLite
 
-A simple **Python console application** to manage your expenses.  
-Users can add expenses, view all records, and get a **total spending summary**.  
-This project demonstrates **Python basics** like SQLite, loops, user input handling, and formatted output.
+A simple **Python web application** to manage your expenses.  
+Users can add expenses, view all records, delete entries and get a **category-wise spending summary**.  
+This project demonstrates **Python + Flask basics** like SQLite, CRUD Operations, routing, and Bootstrap UI.
 
 ---
 
@@ -12,7 +12,9 @@ This project demonstrates **Python basics** like SQLite, loops, user input handl
 
 - Add daily expenses with category
 - View all expenses in a formatted table
-- Total spending summary
+- Delete any expense
+- Category-wise spending summary
+- Total spending overview
 - Data stored persistently using SQLite
 
 ---
@@ -20,8 +22,10 @@ This project demonstrates **Python basics** like SQLite, loops, user input handl
 ## 🛠 Tech Stack
 
 - **Language:** Python 3
+- **Framework:** Flask
 - **Database:** SQLite3
-- **Concepts Used:** SQLite, CRUD Operations, Loops, f-strings, User Input Handling
+- **Frontend:** HTML, Bootstrap 5
+- **Concepts Used:** Flask Routing, SQLite CRUD, Jinja2 Templates
 
 ---
 
@@ -31,14 +35,31 @@ This project demonstrates **Python basics** like SQLite, loops, user input handl
 
 git clone https://github.com/thepratikshamishra/expense-tracker.git
 cd expense-tracker
-python expense_tracker.py
+
+2️⃣ **Install dependencies**
+
+  pip install flask
+
+3️⃣ **Run the app** 
+
+  python app.py
+  
+4️⃣ Open browser and go to `http://127.0.0.1:5000`
 
 ---
 
 ## 📂 Project Structure
+
 expense-tracker/
-│── expense_tracker.py   # Main application code
-│── README.md            # Project documentation
+│── app.py                  # Flask web application
+
+│── expense_tracker.py      # Original CLI version
+
+│── templates/
+
+│   └── index.html          # Frontend UI
+
+│── README.md               # Project documentation
 
 ---
 
@@ -47,4 +68,5 @@ expense-tracker/
 **Pratiksha Mishra**
 
 🌐 GitHub: [thepratikshamishra](https://github.com/thepratikshamishra)  
+
 💼 LinkedIn: [Pratiksha Mishra](www.linkedin.com/in/the-pratiksha-mishra)
