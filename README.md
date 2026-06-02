@@ -7,7 +7,7 @@ Users can add expenses, view all records, delete entries and get a **category-wi
 This project demonstrates **Python + Flask basics** like SQLite, CRUD Operations, routing, and Bootstrap UI.   
 
 ---      
- 
+                 
 ## 📌 Features                              
     
 - Add daily expenses with category
