@@ -8,7 +8,7 @@ This project demonstrates **Python + Flask basics** like SQLite, CRUD Operations
 
 ---
  
-## 📌 Features     
+## 📌 Features                    
 
 - Add daily expenses with category
 - View all expenses in a formatted table
