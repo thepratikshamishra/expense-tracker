@@ -18,7 +18,7 @@ This project demonstrates **Python + Flask basics** like SQLite, CRUD Operations
 - Data stored persistently using SQLite
 
 ---
-
+   
 ## 🛠 Tech Stack
 
 - **Language:** Python 3
