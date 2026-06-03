@@ -13,7 +13,7 @@ This project demonstrates **Python + Flask basics** like SQLite, CRUD Operations
 - Add daily expenses with category
 - View all expenses in a formatted table
 - Delete any expense
-- Category-wise spending summary. 
+- Category-wise spending summary.    
 - Total spending overview
 - Data stored persistently using SQLite
 
