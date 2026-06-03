@@ -14,7 +14,7 @@ This project demonstrates **Python + Flask basics** like SQLite, CRUD Operations
 - View all expenses in a formatted table
 - Delete any expense
 - Category-wise spending summary.    
-- Total spending overview.    
+- Total spending overview.        
 - Data stored persistently using SQLite
 
 ---        
