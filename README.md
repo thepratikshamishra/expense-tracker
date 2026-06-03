@@ -17,7 +17,7 @@ This project demonstrates **Python + Flask basics** like SQLite, CRUD Operations
 - Total spending overview.    
 - Data stored persistently using SQLite
 
----
+---     
    
 ## 🛠 Tech Stack
 
