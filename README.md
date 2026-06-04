@@ -58,7 +58,7 @@ expense-tracker/
 │── templates/
 
 │   └── index.html          # Frontend UI
-
+                                  
 │── README.md               # Project documentation
 
 ---
