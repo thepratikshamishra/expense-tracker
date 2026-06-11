@@ -5,7 +5,7 @@ app = Flask(__name__)
 app.secret_key = "expense_secret"
 
 
-def get_db(): 
+def get_db():   
     conn = sqlite3.connect("test.db")
     return conn
 
