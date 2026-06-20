@@ -4,7 +4,7 @@ Beginner-friendly Python web app for tracking daily expenses using Flask and SQL
 
 A simple **Python web application** to manage your expenses.                                                   
 Users can add expenses, view all records, delete entries and get a **category-wise spending summary**.   
-This project demonstrates **Python + Flask basics** like SQLite, CRUD Operations, routing, and Bootstrap UI.   
+This project demonstrates **Python + Flask basics** like SQLite, CRUD Operations, routing, and Bootstrap UI.    
 
 ---      
                                                                   
