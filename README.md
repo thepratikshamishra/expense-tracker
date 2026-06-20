@@ -50,7 +50,8 @@ cd expense-tracker
 
 ## 📂 Project Structure
 
-expense-tracker/
+expense-tracker
+
 │── app.py                  # Flask web application
 
 │── expense_tracker.py      # Original CLI version
